@@ -1,7 +1,7 @@
 CPNT260
 Assignment 1
 Brendan Malycky 
-
+https://brendanm403.github.io/cpnt260-a1/
 
 Attributions
 
