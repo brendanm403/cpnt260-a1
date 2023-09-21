@@ -24,7 +24,8 @@ Above and Beyond
 
 
 
-  /* feedback: don't place max width on body, (i placed it on the review div), font sizes in pixels */
+  /* feedback: don't place max width on body, (i placed it on the review div), declare font sizes in pixels, set line height on body
+  can override later */
 
 
 
